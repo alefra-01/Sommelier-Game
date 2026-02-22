@@ -22,6 +22,7 @@ I was involved in:
 
 ## Demo / Build
 - Windows build (.zip): https://github.com/alefra-01/Sommelier-Game/releases/tag/v1.0
+- Download the .zip from Releases, extract it, run the .exe.
 
 
 ## Credits
