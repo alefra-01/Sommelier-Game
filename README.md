@@ -21,7 +21,7 @@ I was involved in:
 - Objective: **Survive 4 nights**
 
 ## Demo / Build
-- Windows build (.zip): https://drive.google.com/drive/folders/1xMuQvQaJZ9BJQKok_tk0budKiv0sdE96?usp=sharing
+- Windows build (.zip): https://github.com/alefra-01/Sommelier-Game/releases/tag/v1.0
 
 
 ## Credits
